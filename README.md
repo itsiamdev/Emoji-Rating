@@ -9,7 +9,7 @@ A delightful and interactive emoji-based rating system that lets users express t
 - **Responsive Design**: Works great on desktop and mobile devices
 
 ## Live Demo
-Experience the emoji rating system live: [https://iam269.github.io/Emoji-Rating/](https://iam269.github.io/Emoji-Rating/)
+Experience the emoji rating system live: [https://itsiamdev.github.io/Emoji-Rating/](https://itsiamdev.github.io/Emoji-Rating/)
 
 ## How to Use
 1. Open the webpage
